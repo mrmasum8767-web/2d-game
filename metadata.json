@@ -1,0 +1,6 @@
+{
+  "name": "Solaris Drift",
+  "description": "High-speed 3D hover-interceptor canyon flight & combat slalom game built with Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
